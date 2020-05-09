@@ -1,2 +1,2 @@
 # Blend2D-contours
-Blend2Dextension for extracting contours fromaBLPath
+Blend2Dextension for extracting contours from a BLPath
