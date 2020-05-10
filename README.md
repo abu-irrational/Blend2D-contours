@@ -1,5 +1,5 @@
 # Blend2D-contours
-Blend2Dextension for extracting contours from a BLPath
+Blend2D extension for extracting contours from a BLPath
 ------------------------------------------------------
 
 This is a little Blend2D extension for extracting the contours of a BLPath.
