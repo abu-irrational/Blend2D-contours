@@ -13,9 +13,9 @@ You are free to use the the code
 
 These extension introduces a new main class "BLX_Contours", and two inner classes: BLX_Contour and Bcurve.
 
-BLX_Contours: a list of BLX_Contour.
-  BLX_Contour: a list of connected Bcurve (Bezier-Curves) of degree 2,3,4
-    Bcurve: A Bezier-curve stored in polynomial form for fast evaluation.
+    BLX_Contours: a list of BLX_Contour.
+        BLX_Contour: a list of connected Bcurve (Bezier-Curves) of degree 2,3,4
+            Bcurve: A Bezier-curve stored in polynomial form for fast evaluation.
     
 Usage:
 
